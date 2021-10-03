@@ -20,13 +20,16 @@ public class MixpanelAnalytics extends AndroidNonvisibleComponent {
   public MixpanelAnalytics(ComponentContainer container) {
     super(container.$form());
   }
+  
   MessageBuilder messageBuilder;
 
+  // Initialize the message builder of mixpanel analytics with the project token
   @SimpleFunction
   public void Initialize(String projectToken){
     messageBuilder = new MessageBuilder(projectToken);
   }
 
+  // Method to send events
   @SimpleFunction
   public void SendEvent(String eventName, YailDictionary properties, String distinctId) {
     AsynchUtil.runAsynchronously(new Runnable() {
