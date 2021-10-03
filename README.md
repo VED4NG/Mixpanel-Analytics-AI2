@@ -61,4 +61,5 @@ Thanks to @Shreyash for his [Rush](https://community.appinventor.mit.edu/t/rush-
 Thanks to @vknow360 for his [Extension Documentation Generator](https://community.appinventor.mit.edu/t/how-to-generate-docs-for-your-extensions-java-jar/27790/7?u=techno_vedang)  
 
 ## Download Extension
-[com.vedang.mixpanelanalytics.aix|attachment](https://community.appinventor.mit.edu/uploads/short-url/hzWW2YEJJWSUAekvekeuGADTnKD.aix) (36.4 KB)
+<kbd>[com.vedang.mixpanelanalytics.aix|attachment](https://community.appinventor.mit.edu/uploads/short-url/hzWW2YEJJWSUAekvekeuGADTnKD.aix) (36.4 KB)
+</kbd>
